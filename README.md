@@ -2,7 +2,7 @@
 End-to-end fraud analytics project analyzing 500,000 banking transactions using Excel and Power BI. Includes interactive dashboards, DAX measures, pivot tables, and rule-based risk classification system.
 
 ## Dashboard Screenshot
-![Excel Dashboard](Excel Dashboard.png)
+![Excel Dashboard](Excel%20Dashboard.png)
 
 ## Objective
 Analyzed 500,000 real banking transactions to identify 
