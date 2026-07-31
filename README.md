@@ -3,6 +3,7 @@ End-to-end fraud analytics project analyzing 500,000 banking transactions using 
 
 ## Dashboard Screenshot
 ![Excel Dashboard](Excel%20Dashboard.png)
+![Power BI Page 1](Power%20Bi%20Dashboard%201.png)
 
 ## Objective
 Analyzed 500,000 real banking transactions to identify 
