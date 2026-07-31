@@ -32,5 +32,5 @@ fraud patterns and build interactive analytics dashboards.
 
 - ## Full Interactive Workbook
 Due to file size, the complete Excel and Power BI workbook (with pivot tables, charts and slicers) is available as a ZIP file:
-[Download Full Excel File (ZIP)](https://drive.google.com/file/d/1t5EJh1dqrdzs5Ppq0M_tbangSaMDe_l-/view?usp=sharing
+[Download Full Excel File (ZIP)](https://drive.google.com/file/d/1t5EJh1dqrdzs5Ppq0M_tbangSaMDe_l-/view?usp=sharing)
 [Download Full Power BI File (ZIP)](https://drive.google.com/file/d/1YfmxvJTn238LJcWCwLHLvUUZeLDo9KXv/view?usp=sharing)
