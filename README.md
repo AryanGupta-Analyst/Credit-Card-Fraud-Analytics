@@ -1,11 +1,9 @@
 # Credit-Card-Fraud-Analytics
 End-to-end fraud analytics project analyzing 500,000 banking transactions using Excel and Power BI. Includes interactive dashboards, DAX measures, pivot tables, and rule-based risk classification system.
 
-## Dashboard Screenshots
+## Dashboard Screenshot
 ![Excel Dashboard](Excel Dashboard.png)
-![Power Bi Dashboard](Power Bi Dashboard 1.png)
-![Power Bi Dashboard](Power Bi Dashboard 2.png)
-![Power Bi Dashboard](Power Bi Dashboard 3.png)
+
 ## Objective
 Analyzed 500,000 real banking transactions to identify 
 fraud patterns and build interactive analytics dashboards.
