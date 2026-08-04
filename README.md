@@ -38,7 +38,6 @@ End-to-end fraud analytics project analyzing banking transactions using Excel, P
 - Rule-based HIGH, MEDIUM, LOW risk classification
 
 ## SQL Analysis (MySQL)
-
 - The full 500,000-row dataset exceeded MySQL's practical upload size for this project, so the SQL analysis was performed on a 90,000-row representative sample of   the same dataset 
 - preserving the same fraud patterns and distributions for consistent, comparable analysis.
   
@@ -68,7 +67,7 @@ End-to-end fraud analytics project analyzing banking transactions using Excel, P
 - International transactions show higher risk  - Apply country-based risk scoring for cross-border transactions.
 - Some customers show repeated fraud activity  - Prioritize for investigation, consider temporary restrictions.
 
-- ## Full Interactive Workbook
+## Full Interactive Workbook
 Due to file size, the complete Excel and Power BI workbook (with pivot tables, charts and slicers) is available as a ZIP file:
 [Download Full Excel File (ZIP)](https://drive.google.com/file/d/1t5EJh1dqrdzs5Ppq0M_tbangSaMDe_l-/view?usp=sharing)
 [Download Full Power BI File (ZIP)](https://drive.google.com/file/d/1YfmxvJTn238LJcWCwLHLvUUZeLDo9KXv/view?usp=sharing)
