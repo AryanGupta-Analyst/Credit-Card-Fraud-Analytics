@@ -43,14 +43,14 @@ End-to-end fraud analytics project analyzing banking transactions using Excel, P
 - preserving the same fraud patterns and distributions for consistent, comparable analysis.
   
 ## SQL Section	Description
-1	Project Header -	Dataset & objective overview
-2	Executive Summary -	Total transactions, fraud count, fraud rate, fraud amount
-3	Merchant Analysis -	Fraud by merchant category, top 5 high-risk categories
-4	Time Analysis -	Monthly trend, hourly trend, night fraud, transaction type
-5	Amount & Risk Analysis -	Fraud by amount bucket, high-value & above-average fraud
-6	Card & Channel Analysis -	Card type, international vs domestic, device, chip, PIN usage
-7	Investigation Analysis -	Fraud by country, repeat offenders, ranking, latest transactions
-8	Key Insights & Recommendations -	Business insights mapped to action items
+- 1	Project Header -	Dataset & objective overview
+- 2	Executive Summary -	Total transactions, fraud count, fraud rate, fraud amount
+- 3	Merchant Analysis -	Fraud by merchant category, top 5 high-risk categories
+- 4	Time Analysis -	Monthly trend, hourly trend, night fraud, transaction type
+- 5	Amount & Risk Analysis -	Fraud by amount bucket, high-value & above-average fraud
+- 6	Card & Channel Analysis -	Card type, international vs domestic, device, chip, PIN usage
+- 7	Investigation Analysis -	Fraud by country, repeat offenders, ranking, latest transactions
+- 8	Key Insights & Recommendations -	Business insights mapped to action items
 
 ## SQL Skills Used:
 - Aggregation: COUNT, SUM, AVG, ROUND
